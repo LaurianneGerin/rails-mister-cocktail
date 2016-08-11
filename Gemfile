@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 ruby '2.3.1'
+#faker
+gem 'faker'
 # Style sheet Le Wagon
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
