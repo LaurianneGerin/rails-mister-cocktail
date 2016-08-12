@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 ruby '2.3.1'
+# security
+gem 'figaro'
 #faker
 gem 'faker'
 # Style sheet Le Wagon
